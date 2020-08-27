@@ -1,0 +1,6 @@
+database:
+    host: localhost
+    port: 5432
+    username: books_user
+    password: B00ks.P4ss
+    databaseName: books
